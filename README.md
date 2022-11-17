@@ -14,11 +14,11 @@
 # Описание
 
 <ul>
-    <li>__Точка входа:__ index.php</li>
-    <li>__Controllers:__ Контроллеры проекта</li>
-    <li>__Core:__ Ядро mvc</li>
-    <li>__Helpers:__ Хелперы mvc</li>
-    <li>__Models:__ Модели проекта</li>
-    <li>__Routes:__ Роуты</li>
-    <li>__Views:__ Шаблоны проекта</li>
+    <li>Точка входа: index.php</li>
+    <li>Controllers: Контроллеры проекта</li>
+    <li>Core: Ядро mvc</li>
+    <li>Helpers: Хелперы mvc</li>
+    <li>Models: Модели проекта</li>
+    <li>Routes: Роуты</li>
+    <li>Views: Шаблоны проекта</li>
 </ul>
